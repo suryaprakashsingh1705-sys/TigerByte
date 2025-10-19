@@ -14,6 +14,14 @@ TigerByte explores how programming language design, multilingual command parsing
 - Simple interpreter written in **Python**
 - Educational focus on bridging natural and programming languages
 
+## File Extensions
+| Emoji | Extension | Purpose |
+|:--:|:--:|:--|
+| 🐯 | `.tbyte` | Main source code files |
+| 🐾 | `.cub` | Example/tutorial files |
+| 📣 | `.roar` | Output/log files |
+| 🏠 | `.den` | Configuration/environment files |
+
 ## Structure
 - `src/` → Core interpreter logic  
 - `docs/` → Design notes and supporting documents  
