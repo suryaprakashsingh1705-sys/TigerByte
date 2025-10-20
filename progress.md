@@ -1,5 +1,27 @@
 # TigerByte Progress Log
 
+## October 20, 2025
+### ✅ **Did**
+- Created `CODE_OF_CONDUCT.md` using the Contributor Covenant template.  
+- Added `CONTRIBUTING.md` outlining how to suggest new keywords, translations, and ideas for TigerByte.  
+- Committed changes with a conventional message (`docs: add contributing and code of conduct for Hacktoberfest setup`).  
+- Planned to update `README.md` to include a section linking to `CONTRIBUTING.md`.  
+- Reviewed Hacktoberfest eligibility and confirmed TigerByte qualifies as an open-source, beginner-friendly project.  
+
+### 🧭 **Next Steps**
+- Add a “Contributing” section in `README.md` with a direct link to `CONTRIBUTING.md`.  
+- Create issue and pull request templates (`ISSUE_TEMPLATE.md`, `PULL_REQUEST_TEMPLATE.md`).  
+- Add repository topics: `hacktoberfest`, `toy-language`, `education`, `python`, `beginner-friendly`.  
+- Draft first set of “Good First Issues” to invite contributors.  
+- Prepare for TigerByte’s **v0.1.1** documentation update commit.  
+
+### 🌟 **Notes**
+- TigerByte’s foundation for open-source collaboration is now officially established.  
+- The project is moving from conceptual design to community readiness, aligning with Hacktoberfest 2025 participation.  
+
+*TigerByte continues its journey — one pawprint at a time.* 🐾
+
+
 ## 📅 October 19, 2025
 **Milestones Achieved:**
 - Defined the TigerByte **file system** and extensions:
