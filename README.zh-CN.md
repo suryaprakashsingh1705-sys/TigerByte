@@ -3,7 +3,7 @@
 TigerByte 是一个多语言、以老虎为主题的玩具编程语言，目前处于概念开发阶段。
 
 ## 语言  
-English | Deutsch | 中文（简体）
+[English](./README.md) | [Deutsch](./README.de.md) | [Mandarin]（./README.zh-CN.md）
 
 ## 状态  
 🚧 开发中 — 项目框架已创建，核心设计正在进行。
