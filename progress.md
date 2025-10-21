@@ -1,5 +1,18 @@
 # TigerByte Progress Log
 
+## October 21, 2025
+### ✅ **Did**
+
+- Added a contributing section in the Readme file.Added a Contributing section in the README.md linking to CONTRIBUTING.md.
+
+- Mentioned that TigerByte is implemented in Python in README.md, CONTRIBUTING.md, and progress.md.
+
+- Drafted updates for README.md to include Python, languages section, and contribution guidance.
+
+- Prepared the draft branch for Python mention and contributing updates.
+
+- Updated Changelog
+
 ## October 20, 2025
 ### ✅ **Did**
 - Created `CODE_OF_CONDUCT.md` using the Contributor Covenant template.  

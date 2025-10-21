@@ -4,6 +4,16 @@ All notable changes to TigerByte will be documented in this file.
 
 The format is based on [Semantic Versioning](https://semver.org/).
 
+### [v0.1.2] – 2025-10-21
+#### Added
+- Contributing section in `README.md` linking to `CONTRIBUTING.md`.
+- Mentioned that TigerByte is implemented in **Python** in `README.md`, `CONTRIBUTING.md`, and `progress.md`.
+- Draft updates for `README.md` including Python mention, Languages section, and contribution guidance.
+
+#### Notes
+- Updates improve clarity for contributors and highlight the Python-based implementation of TigerByte.
+- Prepared draft branch for ongoing documentation improvements.
+
 ## [0.1.1] - 2025-10-20
 
 ### Added

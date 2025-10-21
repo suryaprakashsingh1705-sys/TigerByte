@@ -1,6 +1,6 @@
 # 🐯 TigerByte
 
-TigerByte is a multilingual, tiger-themed toy programming language currently in conceptual development.
+TigerByte is a multilingual, tiger-themed toy programming language, **implemented in Python**, currently in conceptual development.
 
 ## Status
 🚧 **In Development** — project shell created, core design in progress.
@@ -13,6 +13,8 @@ TigerByte explores how programming language design, multilingual command parsing
 - Aliases for thematic verbs like `feed`, `chase`, and `say`
 - Simple interpreter written in **Python**
 - Educational focus on bridging natural and programming languages
+- Minimal interpreter written in **Python** to execute TigerByte scripts
+
 
 ## File Extensions
 | Emoji | Extension | Purpose |
@@ -40,6 +42,17 @@ TigerByte explores how programming language design, multilingual command parsing
 3. Build a minimal interpreter in Python to execute simple TigerByte scripts.  
 4. Implement a feedback loop for command parsing and multilingual input.  
 5. Expand documentation with syntax examples and language reference.
+
+## Contributing
+
+We welcome contributions from everyone! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) guide before submitting issues or pull requests.  
+It includes instructions for:
+
+- Setting up your local Python environment  
+- Using TigerByte file types (`.tbyte`, `.cub`, `.roar`, `.den`)  
+- Following our keyword conventions and multilingual command system  
+- Pull request workflow and conventional commit messages
+
 
 ## License
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
