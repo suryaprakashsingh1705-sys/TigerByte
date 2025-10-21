@@ -13,6 +13,15 @@
 
 - Updated Changelog
 
+- Created issue #2 on GitHub/reviewed pull request/merged pull request.
+
+- Created issue #4 on GitHub
+reviewed pull request/merged pull request.
+
+- Created interpreter.py no content inside but it will help list as a Python project for Hacktoberfest.
+
+- Added hacktoberfest-accepted label on the pull/merge 
+
 ## October 20, 2025
 ### ✅ **Did**
 - Created `CODE_OF_CONDUCT.md` using the Contributor Covenant template.  
