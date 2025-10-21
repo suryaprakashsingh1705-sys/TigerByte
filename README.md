@@ -2,6 +2,9 @@
 
 TigerByte is a multilingual, tiger-themed toy programming language currently in conceptual development.
 
+## Languages
+[English](./README.md) | [Deutsch](./README.de.md)
+
 ## Status
 🚧 **In Development** — project shell created, core design in progress.
 
