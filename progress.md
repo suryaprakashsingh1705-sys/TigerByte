@@ -3,24 +3,17 @@
 ## October 21, 2025
 ### ✅ **Did**
 
-- Added a contributing section in the Readme file.Added a Contributing section in the README.md linking to CONTRIBUTING.md.
+1. Added a **Contributing** section in `README.md` linking to `CONTRIBUTING.md`.
+2. Mentioned that **TigerByte is implemented in Python** in `README.md`, `CONTRIBUTING.md`, and `progress.md`.
+3. Drafted updates for `README.md` to include Python, languages section, and contribution guidance.
+4. Prepared the draft branch for Python mention and contributing updates.
+5. **Updated `progress.md` and `changelog.md`** (first update).
+6. Created **issue #2** on GitHub; reviewed pull request / merged pull request.
+7. Created **issue #4** on GitHub; reviewed pull request / merged pull request.
+8. Created `interpreter.py` (empty for now) to help list the project as a Python project for Hacktoberfest.
+9. Added **hacktoberfest-accepted** label on the pull/merge.
+10. **Updated `progress.md` and `changelog.md` again** (second update).
 
-- Mentioned that TigerByte is implemented in Python in README.md, CONTRIBUTING.md, and progress.md.
-
-- Drafted updates for README.md to include Python, languages section, and contribution guidance.
-
-- Prepared the draft branch for Python mention and contributing updates.
-
-- Updated Changelog
-
-- Created issue #2 on GitHub/reviewed pull request/merged pull request.
-
-- Created issue #4 on GitHub
-reviewed pull request/merged pull request.
-
-- Created interpreter.py no content inside but it will help list as a Python project for Hacktoberfest.
-
-- Added hacktoberfest-accepted label on the pull/merge 
 
 ## October 20, 2025
 ### ✅ **Did**

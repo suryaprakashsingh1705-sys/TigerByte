@@ -4,6 +4,22 @@ All notable changes to TigerByte will be documented in this file.
 
 The format is based on [Semantic Versioning](https://semver.org/).
 
+## [0.2.0] - 2025-10-21
+### Added
+- Added **Contributing** section in `README.md` linking to `CONTRIBUTING.md`.
+- Mentioned that **TigerByte is implemented in Python** in `README.md`, `CONTRIBUTING.md`, and `progress.md`.
+- Drafted updates for `README.md` to include Python, languages section, and contribution guidance.
+- Prepared draft branch for Python mention and contributing updates.
+- Created `interpreter.py` (empty for now) to help list the project as a Python project for Hacktoberfest.
+
+### Changed
+- **Updated `progress.md`** (first update) to log today’s tasks.
+- **Updated `progress.md` and `changelog.md` again** (second update) to reflect completed actions.
+- Added **hacktoberfest-accepted** label on the pull/merge.
+
+### Fixed
+- Reviewed and merged pull requests for **issues #2 and #4**.
+
 ### [v0.1.2] – 2025-10-21
 #### Added
 - Contributing section in `README.md` linking to `CONTRIBUTING.md`.
