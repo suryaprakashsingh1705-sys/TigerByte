@@ -17,7 +17,7 @@ TigerByte untersucht, wie Programmiersprachen-Design, mehrsprachige Befehlsanaly
 ## Dateierweiterungen
 | Emoji | Erweiterung | Zweck |
 |:--:|:--:|:--|
-| 🐯 | `.tbyte` | Hauptquellcodedateien |
+| 🐯 | `.tb` | Hauptquellcodedateien |
 | 🐾 | `.cub` | Beispiel-/Tutorial-Dateien |
 | 📣 | `.roar` | Ausgabe-/Protokolldateien |
 | 🏠 | `.den` | Konfigurations-/Umgebungsdateien |

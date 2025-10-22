@@ -22,7 +22,7 @@ TigerByte explores how programming language design, multilingual command parsing
 ## File Extensions
 | Emoji | Extension | Purpose |
 |:--:|:--:|:--|
-| 🐯 | `.tbyte` | Main source code files |
+| 🐯 | `.tb` | Main source code files |
 | 🐾 | `.cub` | Example/tutorial files |
 | 📣 | `.roar` | Output/log files |
 | 🏠 | `.den` | Configuration/environment files |
@@ -52,7 +52,7 @@ We welcome contributions from everyone! Please read our [CONTRIBUTING.md](./CONT
 It includes instructions for:
 
 - Setting up your local Python environment  
-- Using TigerByte file types (`.tbyte`, `.cub`, `.roar`, `.den`)  
+- Using TigerByte file types (`.tb`, `.cub`, `.roar`, `.den`)  
 - Following our keyword conventions and multilingual command system  
 - Pull request workflow and conventional commit messages
 

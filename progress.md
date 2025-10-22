@@ -1,5 +1,16 @@
 # TigerByte Progress Log
 
+## October 22, 2025
+### ✅ **Did**
+
+- Created contributors.json file 
+
+- Staged/committed contributors.json file
+
+- Changed main file extension from '.tbyte' to '.tb' in all README.md's 
+
+-
+
 ## October 21, 2025
 ### ✅ **Did**
 
@@ -13,7 +24,22 @@
 8. Created `interpreter.py` (empty for now) to help list the project as a Python project for Hacktoberfest.
 9. Added **hacktoberfest-accepted** label on the pull/merge.
 10. **Updated `progress.md` and `changelog.md` again** (second update).
+11. Staged/committed/pushed for progress.md and Changelog.md
 
+## Left Off
+
+- Finished updating `progress.md` and `changelog.md` for today's tasks (2025-10-21).
+- Added Contributing section in `README.md` and mentioned Python in relevant files.
+- Created `interpreter.py` placeholder for Hacktoberfest listing.
+- Reviewed and merged pull requests for issues #2 and #4.
+- Added hacktoberfest-accepted label on pull/merge.
+
+## Next
+
+- Continue improving README.md with additional language mentions and contribution guidance.
+- Start filling content for `interpreter.py` to provide basic functionality.
+- Plan updates for upcoming issues or feature requests.
+- Consider creating new branch for any experimental features or enhancements.
 
 ## October 20, 2025
 ### ✅ **Did**
