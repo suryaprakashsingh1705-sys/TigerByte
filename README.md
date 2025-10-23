@@ -2,6 +2,15 @@
 
 TigerByte is a multilingual, tiger-themed toy programming language, **implemented in Python**, currently in conceptual development.
 
+## ⭐ Star the Repo
+
+If you enjoy working with **TigerByte** or find it helpful, please give it a ⭐ on GitHub! Your support helps the project grow and keeps contributors motivated.
+
+**Star TigerByte on GitHub**
+
+Every star counts and encourages us to keep improving TigerByte. Thank you for your support! 🎉
+
+
 ## Languages
 [English](./README.md) | [Deutsch](./README.de.md)
 

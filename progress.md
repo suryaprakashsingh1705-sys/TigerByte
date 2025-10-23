@@ -11,6 +11,14 @@
 
 - Stage/commit changes for progress.md and Changelog.md
 
+- Merged main branches
+
+- Added star the repo on Readme.md file. 
+
+- Created issue #7 on GitHub for create 3-5 small programs for testing purposes in the future. 
+
+- Created GitHub issue ~ Generate CONTRIBUTORS.md from contributors.json #8
+
 
 ## October 22, 2025
 ### ✅ **Did**
