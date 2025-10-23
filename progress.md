@@ -19,6 +19,15 @@
 
 - Created GitHub issue ~ Generate CONTRIBUTORS.md from contributors.json #8
 
+- Staged/commited with message/pushed to remote main for updated progress.md and README.md
+
+- Created assets directory/ added interpreter v.01 image
+
+- Created Demo section/added interpreter v.01 image
+
+- Staged/committed on GitHub
+
+
 
 ## October 22, 2025
 ### ✅ **Did**
