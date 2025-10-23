@@ -17,6 +17,11 @@ Every star counts and encourages us to keep improving TigerByte. Thank you for y
 ## Status
 🚧 **In Development** — project shell created, core design in progress.
 
+## Demo
+Here’s a preview of the first version of the interpreter in action:
+
+![TigerByte Interpreter v0.1](assets/Interpreterv01.jpg)
+
 ## Vision
 TigerByte explores how programming language design, multilingual command parsing, and creative syntax can enhance both coding and language learning.
 
