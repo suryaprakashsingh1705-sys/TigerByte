@@ -1,0 +1,3 @@
+Calling a function named 'greet'.
+Function output: Hello, TigerByte!
+Function call complete.

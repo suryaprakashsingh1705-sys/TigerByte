@@ -1,0 +1,3 @@
+print "--- Loop Start ---"
+print "Expected to print 3 times"
+print "--- Loop End ---"

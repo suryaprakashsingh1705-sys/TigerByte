@@ -1,0 +1,3 @@
+print "Checking a condition..."
+print "Condition is currently TRUE."
+print "This line represents the 'if' block output."
