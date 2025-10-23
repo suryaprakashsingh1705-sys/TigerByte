@@ -27,6 +27,9 @@
 
 - Staged/committed on GitHub
 
+- Created issues #9 Build a tokenizer and #10 Expand commands for interpreter.
+
+- 
 
 
 ## October 22, 2025
