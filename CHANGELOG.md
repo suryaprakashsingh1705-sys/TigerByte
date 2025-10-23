@@ -1,8 +1,45 @@
-# Changelog
+# 🦁 TigerByte Changelog
 
 All notable changes to TigerByte will be documented in this file.
 
 The format is based on [Semantic Versioning](https://semver.org/).
+
+## [v0.1.1] - 2025-10-22
+### 📝 Overview
+
+- Documentation and synchronization updates to align the project for Hacktoberfest 2025 contributions, finalize file naming conventions, and prepare for interpreter development.
+
+### 🚀 Added
+
+- contributors.json file to track Hacktoberfest contributors.
+
+- Annotated version tag (v0.1.1) added on GitHub for this milestone.
+
+### 🧩 Changed
+
+- Updated all README.md files to use the .tb extension (replacing .tbyte).
+
+- Improved project clarity by standardizing file references and linking the new contributor file.
+
+### 🔧 Fixed
+
+- Divergence between local and remote main branches resolved via merge and sync.
+
+### 🧠 Documentation
+
+- Added detailed daily progress entry (progress.md) for October 22, 2025.
+
+- Reviewed and merged pull requests with review feedback.
+
+- Encouraged contributors to star the repository.
+
+### 🎯 Next Focus
+
+- Begin core development of interpreter.py (TigerByte Interpreter v0.1).
+
+- Introduce tokenizer implementation issue for contributors.
+
+- Establish roadmap for parser and executor components.
 
 ## [0.2.0] - 2025-10-21
 ### Added

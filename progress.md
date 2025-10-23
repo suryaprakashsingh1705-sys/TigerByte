@@ -1,21 +1,53 @@
 # TigerByte Progress Log
 
+## October 23, 2025
+### ✅ **Did**
+
+- Changelog for 10/22/2025 entry submitted/staged/comitted with message
+
+- Added an annotated version tag on GitHub to mark project milestone progress
+
+- Updated contributors.json / committed with message on GitHub.
+
+- Stage/commit changes for progress.md and Changelog.md
+
+
 ## October 22, 2025
 ### ✅ **Did**
 
-- Created contributors.json file 
+- Created contributors.json file for Hacktoberfest contributor tracking.
 
-- Staged/committed contributors.json file
+- Staged and committed contributors.json file.
 
-- Changed main file extension from '.tbyte' to '.tb' in all README.md's 
+- Updated all README.md files to use the .tb extension instead of .tbyte.
 
-- Created issue #5 on GitHub for interpreter Python starter file.
+- Created GitHub Issue #5 for the interpreter Python starter file.
 
-- Pulled/staged/committed all/pushed to remote main.
+- Pulled, staged, committed, and pushed all changes to the remote main branch.
 
-- Reviewed pull/merge request & merged with review/ sent repo star request
-- Added annotated version tag GitHub.
+- Reviewed and merged a pull request, provided feedback, and encouraged the contributor to star the repository.
 
+## Left Off
+
+- Local and remote main branches had diverged; merge completed and synced successfully.
+
+- Editor prompt appeared during merge commit (Git message confirmed successful merge after saving).
+
+- Preparing to focus on interpreter as the next main development area.
+
+## Next
+
+- Begin structured work on TigerByte Interpreter v0.1 (interpreter.py).
+
+- Study and implement tokenization (keywords: Python tokenizer, lexer basics, finite state machine).
+
+- Create GitHub Issue for tokenizer implementation as Hacktoberfest-friendly task.
+
+- Plan roadmap for interpreter development phases (tokenizer → parser → executor → REPL).
+
+- Add an annotated version tag on GitHub to mark project milestone progress.
+
+- Review prior day's work/ update Changelog for 10/22/2025
 
 ## October 21, 2025
 ### ✅ **Did**
