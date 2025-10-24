@@ -10,12 +10,13 @@ Author: Your Name
 Date: October 2025
 License: MIT
 """
-
+from debug import Debugger
 import sys
 import os
+import argparse
 
 
-def run_tigerbyte_file(filepath: str):
+def run_tigerbyte_file(filepath: str, debug_enabled: bool = False):
     """
     Reads and executes a TigerByte (.tb) source file.
 
@@ -25,33 +26,62 @@ def run_tigerbyte_file(filepath: str):
     3. Read contents
     4. Execute line-by-line (currently only print commands)
     """
+    # Create debugger instance based on the flag
+    debugger = Debugger(enabled=debug_enabled)
+    debugger.log(f"Attempting to run file: {filepath}")
 
     # ✅ Step 1: Validate file type
     if not filepath.endswith(".tb"):
         print("❌ Error: Only .tb (TigerByte) files are supported.")
+        # Optionally add debugger.log("File extension check failed.")
         return
 
     # ✅ Step 2: Check file existence
     if not os.path.exists(filepath):
         print(f"❌ Error: File '{filepath}' not found.")
+        # Optionally add debugger.log("File existence check failed.")
         return
 
     # ✅ Step 3: Read the file contents
-    with open(filepath, "r", encoding="utf-8") as file:
-        lines = [line.strip() for line in file.readlines() if line.strip()]
+    debugger.log(f"Reading file contents from {filepath}...")
+    try:
+        with open(filepath, "r", encoding="utf-8") as file:
+            # Read lines, strip whitespace, remove empty lines and comments
+            lines = [
+                line.strip() for line in file.readlines()
+                if line.strip() and not line.strip().startswith('#') # Basic comment handling
+            ]
+        debugger.log(f"Read {len(lines)} executable lines.")
+    except Exception as e:
+        print(f"❌ Error reading file: {e}")
+        debugger.log(f"File read failed: {e}")
+        return
+
 
     if not lines:
-        print("⚠️ Warning: The TigerByte file is empty.")
+        print("⚠️ Warning: The TigerByte file is empty or contains only comments.")
+        debugger.log("No executable lines found.")
         return
 
     print("🐯 Executing TigerByte source...\n")
 
+    # --- Debug Output Placeholders ---
+    # In the future, the tokenizer would run here
+    debugger.show_tokens(None) # Pass actual tokens when available
+    # In the future, the parser would run here
+    debugger.show_ast(None) # Pass actual AST when available
+    # --- End Placeholders ---
+
     # ✅ Step 4: Execute each line
-    for line in lines:
-        execute_command(line)
+    debugger.log("Starting line-by-line execution...")
+    for i, line in enumerate(lines):
+        debugger.show_line_execution(i + 1, line) # Show line before execution
+        execute_command(line, debugger) # Pass debugger to command executor
+
+    debugger.log("Execution finished.")
 
 
-def execute_command(command: str):
+def execute_command(command: str, debugger: Debugger):
     """
     Basic command executor.
     Supports: print "<message>"
@@ -69,14 +99,25 @@ def execute_command(command: str):
 
 
 def main():
-    """CLI entry point"""
-    if len(sys.argv) < 2:
-        print("Usage: python src/interpreter.py <filename.tb>")
-        sys.exit(1)
+    """CLI entry point with argument parsing."""
+    parser = argparse.ArgumentParser(
+        description="🐯 TigerByte Interpreter v0.1 - Executes .tb files."
+    )
+    parser.add_argument(
+        'filepath',
+        help="Path to the TigerByte (.tb) script to run."
+    )
+    parser.add_argument(
+        '--debug',
+        action='store_true', # Sets args.debug to True if flag is present
+        help="Enable debug mode to show execution steps."
+    )
 
-    filepath = sys.argv[1]
-    run_tigerbyte_file(filepath)
+    # Parse the arguments provided from the command line
+    args = parser.parse_args()
 
+    # Call the main execution function, passing the debug flag status
+    run_tigerbyte_file(args.filepath, debug_enabled=args.debug)
 
 if __name__ == "__main__":
     main()
