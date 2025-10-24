@@ -1,0 +1,12 @@
+print "--- Loop Start ---"
+print "Expected to print 3 times"
+print "--- Loop End ---"
+
+print "Loop iteration: 🔷0🔷"
+print "Loop iteration: 🔷1🔷"
+print "Loop iteration: 🔷2🔷"
+
+# Future syntax (once loops are supported):
+# for i in 0 to 2:
+#   print("Loop iteration: " + i)
+# 🔷 Numbers 0, 1, 2 represent the loop counter variable
