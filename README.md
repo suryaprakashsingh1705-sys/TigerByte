@@ -73,7 +73,23 @@ TigerByte explores how programming language design, multilingual command parsing
 4. Implement a feedback loop for command parsing and multilingual input.  
 5. Expand documentation with syntax examples and language reference.
 
-## Contributing
+
+## **Contribute / Join the Team**
+
+## 🐯 Help Shape TigerByte!
+
+TigerByte is growing — and we want **co-maintainers** to join the adventure!  
+
+💻 **Role:** Review PRs, mentor contributors, maintain docs & roadmap, join optional syncs  
+⏰ **Time Commitment:** ~2–3 hours/week  
+🧡 **Beginner-friendly & welcoming community**  
+
+📢 Interested? Check out our [Co-Maintainers Discussion](https://github.com/bijiyiqi2017/TigerByte/discussions/22) and comment to be notified when applications open!  
+
+🌟 Contribute, learn, and grow with TigerByte!
+
+
+### Contributing
 
 We welcome contributions from everyone! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) guide before submitting issues or pull requests.  
 It includes instructions for:
