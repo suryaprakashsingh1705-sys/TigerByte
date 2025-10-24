@@ -1,3 +1,4 @@
 Simple Calculation Example
 Expected: 4 times 5 is 20
 Expected: 10 divided by 2 is 5
+Expected: The result is 🔷12.50🔷

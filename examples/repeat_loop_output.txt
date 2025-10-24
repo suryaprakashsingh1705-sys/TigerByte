@@ -1,3 +1,7 @@
 --- Loop Start ---
 Expected to print 3 times
 --- Loop End ---
+
+Loop iteration: 🔷0🔷
+Loop iteration: 🔷1🔷
+Loop iteration: 🔷2🔷

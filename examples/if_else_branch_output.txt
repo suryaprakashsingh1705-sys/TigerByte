@@ -1,3 +1,4 @@
 Checking a condition...
 Condition is currently TRUE.
 This line represents the 'if' block output.
+The condition is 🔷true🔷

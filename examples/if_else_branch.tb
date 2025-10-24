@@ -1,3 +1,13 @@
 print "Checking a condition..."
 print "Condition is currently TRUE."
 print "This line represents the 'if' block output."
+print "The condition is 🔷true🔷"
+
+# Future syntax (once conditionals and variables are supported):
+# temperature = 25
+# 
+# if temperature > 20:
+#   print("The condition is true")
+# else:
+#   print("The condition is false")
+# 🔷 The word 'true' represents the output of a conditional branch
