@@ -29,8 +29,49 @@
 
 - Created issues #9 Build a tokenizer and #10 Expand commands for interpreter.
 
-- 
+- GitHub Add Pull Request Template + Wiki Doc issue #12 
 
+- Merged/closed issue #12 
+
+🟡 Left Off
+
+Wiki Home Page draft not yet created
+
+Multi-OS SETUP.md issue not yet posted
+
+CONTRIBUTING.md issue not yet drafted
+
+Example scripts folder and issues not yet created
+
+Debug/verbose mode for interpreter not yet implemented
+
+Tokenizer unit tests not yet written
+
+PR reviews and merges for Hacktoberfest contributions still pending
+
+🔜 Next / To-Do
+
+Draft TigerByte Wiki Home Page and link from README.md
+
+Create SETUP.md issue for multi-OS contributions (Linux, macOS, Windows)
+
+Encourage contributors to claim OS sections for Hacktoberfest
+
+Draft CONTRIBUTING.md issue for beginner-friendly PR guide
+
+Create issue for example scripts in /examples folder
+
+Implement debug/verbose mode feature for interpreter and document usage
+
+Write initial unit tests for tokenizer using pytest
+
+Update README badges / add Docs / Wiki badge for visibility
+
+Review and merge PRs for: setup, contributing, examples, and assets
+
+Plan post-Hacktoberfest migration of docs to Wiki (Setup, Contributing, Examples)
+
+Track contributors for credit on Wiki pages
 
 ## October 22, 2025
 ### ✅ **Did**

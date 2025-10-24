@@ -4,6 +4,83 @@ All notable changes to TigerByte will be documented in this file.
 
 The format is based on [Semantic Versioning](https://semver.org/).
 
+## [v0.1.2] - 2025-10-23
+### 📝 Overview
+
+- Minor milestone updates for TigerByte: workflow improvements, Hacktoberfest preparation, and repository enhancements.
+
+### ✅ Added / Updated
+
+- Submitted and staged Changelog entry for 10/22/2025
+
+- Added annotated version tag on GitHub to mark project milestone progress
+
+- Updated contributors.json and committed changes
+
+- Staged and committed changes for progress.md and Changelog.md
+
+- Merged local and remote main branches
+
+- Added “⭐ Star the repo” section in README.md
+
+- Created GitHub issues for Hacktoberfest contributions:
+
+- #7 – Create 3–5 small example programs for testing
+
+- #8 – Generate CONTRIBUTORS.md from contributors.json
+
+- #9 – Build a tokenizer
+
+- #10 – Expand interpreter commands
+
+- #12 – Add Pull Request Template + Wiki Doc
+
+- Created assets directory and added interpreter v.01 image
+
+- Added Demo section with interpreter v.01 image
+
+- Staged, committed, and pushed all updates to remote main
+
+- Merged and closed issue #12
+
+## 🟡 Work in Progress
+
+- Wiki Home Page draft not yet created
+
+- Multi-OS SETUP.md issue not yet posted
+
+- CONTRIBUTING.md issue not yet drafted
+
+- Example scripts folder and issues not yet created
+
+- Debug / verbose mode for interpreter not yet implemented
+
+- Tokenizer unit tests not yet written
+
+## 🔜 Next Steps
+
+- Draft TigerByte Wiki Home Page and link from README.md
+
+- Create SETUP.md issue for multi-OS contributions (Linux, macOS, Windows)
+
+- Encourage contributors to claim OS sections for Hacktoberfest
+
+- Draft CONTRIBUTING.md issue for beginner-friendly PR guide
+
+- Create issue for example scripts in /examples folder
+
+- Implement debug/verbose mode feature for interpreter and document usage
+
+- Write initial unit tests for tokenizer using pytest
+
+- Update README badges / add Docs / Wiki badge for visibility
+
+- Review and merge PRs for setup, contributing, examples, and assets
+
+- Plan post-Hacktoberfest migration of docs to Wiki (Setup, Contributing, Examples)
+
+- Track contributors for credit on Wiki pages
+
 ## [v0.1.1] - 2025-10-22
 ### 📝 Overview
 
