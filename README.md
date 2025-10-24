@@ -70,6 +70,24 @@ It includes instructions for:
 - Following our keyword conventions and multilingual command system  
 - Pull request workflow and conventional commit messages
 
+---
+
+## 📘 TigerByte Wiki
+
+Our Wiki is the official home for in-depth documentation, guides, and learning resources about TigerByte.
+
+👉 **[Visit the TigerByte Wiki](bijiyiqi2017>/TigerByte/wiki)**
+
+It will expand after Hacktoberfest with:
+- Setup & Installation
+- Interpreter Internals
+- Example Scripts
+- Contributor Handbook
+
+🐅 *Built with curiosity. Grown by community.*
+
+---
+
 
 ## License
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
