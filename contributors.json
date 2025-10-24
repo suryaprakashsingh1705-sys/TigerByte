@@ -12,16 +12,15 @@
       "name": "Rajkumar Rangala",
       "github_id": "Rajkumar-Rangala-Dev",
       "issues_resolved": [7]
-
     },
     {
-  "name": " ",
-  "github_id": "GoldFoylee",
-  "issues_resolved": [6]
+      "name": " ",
+      "github_id": "GoldFoylee",
+      "issues_resolved": [6]
     },
 
     {
-      "name": " ", 
+      "name": " ",
       "github_id": "Pratham00007",
       "issues_resolved": [4]
     },
@@ -30,10 +29,13 @@
       "name": " ",
       "github_id": "Pranay22077",
       "issues_resolved": [2]
+    },
+
+    {
+      "name": "Shubham Gupta",
+      "github_id": "shubham-gupta-2717",
+      "issues_resolved" : [1]
     }
-
   ],
-  "last_updated": "2025-10-23"
+  "last_updated": "2025-10-24"
 }
-
-
