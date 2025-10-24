@@ -76,7 +76,7 @@ It includes instructions for:
 
 Our Wiki is the official home for in-depth documentation, guides, and learning resources about TigerByte.
 
-👉 **[Visit the TigerByte Wiki](<bijiyiqi2017>/TigerByte/wiki)**
+👉 **[Visit the TigerByte Wiki](https://github.com/bijiyiqi2017/TigerByte/wiki)**
 
 It will expand after Hacktoberfest with:
 - Setup & Installation
