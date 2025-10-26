@@ -76,17 +76,34 @@ TigerByte explores how programming language design, multilingual command parsing
 
 ## **Contribute / Join the Team**
 
-## 🐯 Help Shape TigerByte!
+## 🐯 Apply to be a TigerByte Co-Maintainer
 
-TigerByte is growing — and we want **co-maintainers** to join the adventure!  
+We’re looking for passionate contributors to help grow **TigerByte**! 🐾  
 
-💻 **Role:** Review PRs, mentor contributors, maintain docs & roadmap, join optional syncs  
-⏰ **Time Commitment:** ~2–3 hours/week  
-🧡 **Beginner-friendly & welcoming community**  
+If you want to become a co-maintainer, please follow these steps:
 
-📢 Interested? Check out our [Co-Maintainers Discussion](https://github.com/bijiyiqi2017/TigerByte/discussions/22) and comment to be notified when applications open!  
+1. **Open the Master Application Template**  
+   [TigerByte Co-Maintainer Application – MASTER TEMPLATE](https://docs.google.com/document/d/1azJwTBzxweCqWRmvc-oJT71cxcib7Eh1gHE2NCe98yE/edit?usp=drive_link)  
+   - **Important:** Do NOT edit this master template directly.  
 
-🌟 Contribute, learn, and grow with TigerByte!
+2. **Make Your Own Copy**  
+   - Go to `File → Make a copy`  
+   - Rename it with your name, e.g., `TigerByte Co-Maintainer Application – Jane Doe`  
+   - Fill out your copy completely.
+
+3. **Submit Your Completed Application**  
+   - Move or upload your filled-out copy to our shared folder: [TigerByte Co-Maintainer Applications](https://drive.google.com/drive/folders/1UG48GjcmEboezK47mXGp5goKvQS8F2vW?usp=drive_link)  
+   - Make sure your file name includes your name for easy tracking.
+
+---
+
+### 📌 Notes
+- Keep your GitHub account active and public so we can check contributions if needed.  
+- No formal resume is required — just your experience, skills, and enthusiasm for TigerByte!  
+- We review applications regularly and will contact you if a co-maintainer role is available.  
+
+Thank you for helping make **TigerByte stronger and more community-driven**! 🐯🔥
+
 
 
 ### Contributing
