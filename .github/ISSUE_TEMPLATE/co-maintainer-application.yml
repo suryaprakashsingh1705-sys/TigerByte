@@ -25,7 +25,6 @@ body:
       label: Full Name
       description: Your full name (as you’d like it displayed in the contributors list).
       placeholder: e.g., Alex Tanaka
-    
       required: true
 
   - type: input
@@ -34,7 +33,6 @@ body:
       label: GitHub Username
       description: Please provide your GitHub handle.
       placeholder: e.g., @alex-tanaka
-    
       required: true
 
   - type: input
@@ -43,7 +41,6 @@ body:
       label: Timezone
       description: Include your time zone (e.g., UTC+8, PST, EST, etc.)
       placeholder: e.g., UTC+9 (Japan Standard Time)
-    
       required: true
 
   - type: textarea
@@ -52,7 +49,6 @@ body:
       label: Availability
       description: What days/times are you generally available for check-ins or sync-ups (in your local time)?
       placeholder: e.g., Weekends (Sat/Sun), or weekdays after 7 PM
-    
       required: true
 
   - type: dropdown
@@ -65,7 +61,6 @@ body:
         - Intermediate
         - Advanced
         - Fluent / Native
-    
       required: true
 
   - type: textarea
@@ -74,7 +69,6 @@ body:
       label: Current Skills
       description: What technical or soft skills do you currently have that could help the TigerByte project?
       placeholder: e.g., Python, Git/GitHub, Documentation, Testing, Mentoring
-    
       required: true
 
   - type: textarea
@@ -83,7 +77,6 @@ body:
       label: Skills You Want to Develop
       description: What would you like to learn or strengthen through this project?
       placeholder: e.g., Writing interpreters, contributing to open source, managing contributors
-    
       required: false
 
   - type: dropdown
@@ -96,7 +89,6 @@ body:
         - 6 months
         - 1 year
         - Long-term (open-ended)
-    
       required: true
 
   - type: checkboxes
@@ -106,7 +98,7 @@ body:
       description: Please confirm that you understand this is a volunteer open-source co-maintainer role.
       options:
         - label: I understand this is a volunteer (unpaid) role focused on collaboration, learning, and community growth.
-          required: true
+      required: true
 
   - type: checkboxes
     id: syncup
@@ -116,8 +108,7 @@ body:
       options:
         - label: Yes, I’m okay with regular short sync-ups
         - label: Prefer async communication only
-      
-        required: true
+      required: true
 
   - type: textarea
     id: motivation
@@ -125,7 +116,6 @@ body:
       label: Why Do You Want to Be a Co-Maintainer?
       description: Share what motivates you to help lead TigerByte.
       placeholder: e.g., I love educational open-source projects and want to help others learn Python while growing my own skills.
-    
       required: true
 
   - type: textarea
@@ -134,7 +124,6 @@ body:
       label: Ideas or Vision
       description: Do you have any suggestions or visions for improving TigerByte or expanding it in the future?
       placeholder: e.g., Add syntax highlighting, improve debug mode, build a learning wiki, add code examples
-    
       required: false
 
   - type: markdown
@@ -145,5 +134,4 @@ body:
         - After submitting, the TigerByte maintainer will review your application.
         - If it’s a good fit, you’ll be invited for a brief discussion or onboarding.
         - Thank you again for your interest and passion for open source 💛
-
-        ⭐ *Optional: Don’t forget to star the repo to show your support!*
+       ⭐ *Optional: Don’t forget to star the repo to show your support!*
