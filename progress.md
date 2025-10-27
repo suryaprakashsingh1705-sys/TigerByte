@@ -1,5 +1,95 @@
 # TigerByte Progress Log
 
+## October 27, 2025
+### ✅ **Did**
+
+- Created tag v0.2.4 and GitHub release note for v0.2.4S
+
+## October 27, 2025
+### ✅ **Did**
+
+- Created an evaluation challenge for the co-maintainers applicants.
+
+- Audited TigerByte's issues and pull requests
+
+- Social media post on pull request/merge contribution progress. 
+
+## Left Off
+
+- Awaiting responses and submissions from co-maintainer applicants for the evaluation challenge.
+
+- Still need to review and tag several pending issues for clarity and next steps.
+
+- Planning to update the project wiki with contributor guidelines and documentation structure.
+
+## 🔜 Next
+
+- Review co-maintainer evaluation submissions and shortlist qualified applicants.
+
+- Finalize and publish updated contributor documentation in the wiki.
+
+- Continue improving issue organization (labels, assignments, and milestones).
+
+- Prepare a new post summarizing the week’s TigerByte progress and community engagement highlights.
+
+## October 26, 2025
+### ✅ **Did**
+
+- Code review/pull request/merge for issues # 
+
+- Sent social media posts mentions progress on the TigerByte project.
+x.com, LinkedIn, Mastodon
+
+## October 25, 2025
+### ✅ **Did**
+
+- Created 1st GitHub discussion post (Recuiting 2-3 co-maintainers)
+
+- Created social media [x.com/mastodon] posts promoting (Recuiting 2-3 co-maintainers)
+
+- Linked discussion link in the README.
+
+- Created GitHub issue #21
+
+## October 24, 2025
+### ✅ **Did**
+
+- Stash pop /committed /pushed yesterday'sprogress, & changelog entry
+
+- Created TigerBytes's 1st wiki home page & linked on Readme
+
+- Staged/committed wiki homepage /pulled all in sync now.
+
+- merged pull request for issues # 11 
+
+- Created issue # 14 on GitHub.
+
+- Created issue #15 TigerByte Add Debug / Verbose Mode to the Interpreter
+
+- Created issue ~ Add Version Command #16
+
+## ⏸️ Left Off
+
+- Remote is currently ahead by 7 commits, and local has unsaved changes
+
+- 2 pull requests still need to be reviewed and merged (pending verification & feedback)
+
+- A new issue draft is nearly ready for posting
+
+- Staging and commit preparation needed before syncing again
+
+## 🔜 Next
+
+- Review and merge pending pull requests once validated
+
+- Finalize and publish the upcoming issue
+
+- Commit local changes, resolve sync differences, and push updates to keep branches aligned
+
+- Update progress.md and changelog.md after merges
+
+- Continue expanding the interpreter documentation for the wiki
+
 ## October 23, 2025
 ### ✅ **Did**
 

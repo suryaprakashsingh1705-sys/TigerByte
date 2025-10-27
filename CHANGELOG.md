@@ -4,6 +4,74 @@ All notable changes to TigerByte will be documented in this file.
 
 The format is based on [Semantic Versioning](https://semver.org/).
 
+[v0.2.4] - 2025-10-27
+
+Created an evaluation challenge for co-maintainer applicants to assess technical and collaboration skills.
+
+Conducted an audit of TigerByte’s issues and pull requests to improve tracking and organization.
+
+Published social media updates highlighting recent pull request merges and overall contribution progress.
+
+[v0.2.3] - 2025-10-26
+
+- Merged pull requests for bug fixes and feature improvements (fill in PR details here).
+
+- Promoted TigerByte project updates and co-maintainer recruitment across social media (x.com, LinkedIn, Mastodon).
+
+- Updated README to include links to GitHub discussions and social media posts for greater project visibility.
+
+- Coordinated with the team to respond to contributor feedback and keep project momentum.
+
+[v0.2.2] - 2025-10-25
+
+- Created initial GitHub discussion post for recruiting 2-3 co-maintainers for the project.
+
+- Shared co-maintainer recruitment announcement on x.com and Mastodon.
+
+- Added GitHub issue #21 to track the recruitment process.
+
+- Linked GitHub discussion in README to centralize co-maintainer information.
+
+[v0.2.1] - 2025-10-24
+🧩 Added
+
+- Wiki Home Page: Created the first official Wiki homepage and linked it in the README.
+
+New Issues Created:
+
+#15 — Add Debug / Verbose Mode to the Interpreter
+
+#16 — Add Version Command
+
+#14 — General repository improvement task
+
+🔧 Changed
+
+- README updated with a direct link to the Wiki homepage for easier navigation.
+
+✅ Fixed
+
+- Merged pull request for Issue #11, ensuring consistency across interpreter modules.
+
+⚙️ Development
+
+- Repository synchronization performed — local branch stashed, committed, and pushed.
+
+- Staging and commits prepared for new updates; remote currently ahead by 7 commits pending merge.
+
+🚧 In Progress
+
+- Two pull requests awaiting review and merge.
+
+- New issue draft in preparation for posting.
+
+- Debug and version command features entering the planning and design phase.
+
+- Commit Tag: v0.2.1
+Date: October 24, 2025
+Author: Bill Miller Jr
+Notes: Foundation for debugging and version control established; Wiki integration complete.
+
 ## [v0.1.2] - 2025-10-23
 ### 📝 Overview
 
@@ -81,7 +149,7 @@ The format is based on [Semantic Versioning](https://semver.org/).
 
 - Plan post-Hacktoberfest migration of docs to Wiki (Setup, Contributing, Examples)
 
-- Track contributors for credit on Wiki pages
+-Track contributors for credit on Wiki pages
 
 ## [v0.1.1] - 2025-10-22
 ### 📝 Overview
