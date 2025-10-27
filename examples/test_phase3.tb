@@ -1,0 +1,56 @@
+# Author Rangala RajKumar
+# Date 27 - October - 2025
+# TigerByte Phase 3 Test Script
+
+
+# 1. Test Simple Variable Assignment and Retrieval
+x = 10
+print "Test 1: Variable x should be 10"
+print x
+
+# 2. Test Arithmetic Operations (Addition and Subtraction)
+y = 25
+result_a = x + y  # 10 + 25 = 35
+print "Test 2: x + y (10 + 25) should be 35"
+print result_a
+
+
+# 3. Test Reassignment and Complex Arithmetic
+z = 50 - 5
+print "Test 3: z should be 45"
+print z
+
+
+final_result = result_a - z # 35 - 45 = -10
+print "Test 4: result_a - z (35 - 45) should be -10"
+print final_result
+
+# 5. TigerByte If/Then/Else Test Script
+
+# Setup
+x = 10
+y = 5
+print "Setup: x=10 y=5"
+print x
+print y
+
+# Test 1: simple equality -> should take THEN branch
+if x == 10 then print "Test1: then branch : x == 10" else print "Test1: else branch : x != 10"
+
+# Test 2: greater-than -> should take THEN branch
+if x > y then print "Test2: x > y (then)" else print "Test2: x <= y (else)"
+
+# Test 3: assignment inside branches -> z should be 2
+if x < 0 then z = 1 else z = 2
+print "Test3: z should be 2"
+print z
+
+# Test 4: negative check
+n = -1
+if n < 0 then print "Test4: n is negative" else print "Test4: n is non-negative"
+
+# Test 5: not-equal
+if y != 10 then print "Test5: y != 10 (then)" else print "Test5: y == 10 (else)"
+
+# 6. Test Error Handling (This line should cause an error if executed)
+# print undefined_var
